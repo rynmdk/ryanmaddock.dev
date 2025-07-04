@@ -1,5 +1,24 @@
-title: Ryan Maddock | Anything ServiceNow
-description: Writing about ServiceNow
+title: Ryan Maddock
+description: ServiceNow and Web Development
 theme: just-the-docs
 
 url: https://rynmdk.github.io/ryanmaddock.dev
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/ryan-maddock-logo.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
