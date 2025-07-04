@@ -2,10 +2,7 @@
 title: Home
 layout: home
 ---
-
-# 👋 Welcome to ryanmaddock.dev
-
-Hi, I’m **Ryan Maddock** – follow me on my journey to become a ServiceNow developer.
+Hi 👋🏻, I’m **Ryan Maddock** – follow me on my journey to become a ServiceNow developer.
 
 This site is where I share:
 - 🔧 **Development insights** – tips, tricks, and techniques for working with ServiceNow
